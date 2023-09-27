@@ -1,0 +1,26 @@
+.items {
+    min-height: 50vh;
+    width: 100vw;
+    /* border: solid; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.homeImg {
+    margin-top: 10vh;
+    height: 30vh;
+    width: 45vw;
+    /* border-radius: 12px; */
+    /* overflow: hidden; */
+}
+
+.homeImg img {
+   height: 100%;
+   width: 100%;
+   border-radius: 12px;
+}
+
